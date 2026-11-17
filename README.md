@@ -8,7 +8,7 @@ I'm a Software Engineering student on a mission to become a **Tech Architect and
 - **Current Challenge:** #100DaysOfCode 
 - **Program:** 12-Month Generalist Architect Curriculum
 - **Philosophy:** Financial-grade security, performance optimization, and production-ready code
-- **Daily Updates:** [@PotatoeDev](https://twitter.com/PotatoeDev)
+- **Daily Updates:** [@KnightOfNull](https://twitter.com/KnightOfNull)
 - **Approach:** Building for scale, not for show
 
 ## 💻 Tech Stack
